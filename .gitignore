@@ -1,0 +1,4 @@
+__pycache__
+report/*
+.env
+output/*
